@@ -35,5 +35,5 @@
   , "supervisor" : "lib/cli-wrapper.js"
   }
 , "engines" : { "node" : ">=0.3.7" }
-, "preferGlobal" : true
+, "preferGlobal" : false
 }
